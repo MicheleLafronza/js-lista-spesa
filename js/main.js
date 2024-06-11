@@ -25,3 +25,5 @@ while (t < listaSpesa.length) {
     t++;
 
 }
+
+// esercizio completato
